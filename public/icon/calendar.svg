@@ -1,0 +1,39 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="calendar" clip-path="url(#clip0_412_68)">
+<g id="Group 21">
+<rect id="Rectangle 85" x="3.33325" y="9.47369" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 86" x="14.4443" y="9.47369" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 87" x="12.2222" y="9.47369" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 88" x="10" y="9.47369" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 89" x="7.77783" y="9.47369" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 90" x="5.55566" y="9.47369" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 91" x="3.33325" y="15.7895" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 92" x="14.4443" y="15.7895" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 93" x="12.2222" y="15.7895" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 94" x="10" y="15.7895" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 95" x="7.77783" y="15.7895" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 96" x="5.55566" y="15.7895" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 97" x="3.33325" y="11.579" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 98" x="14.4443" y="11.579" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 99" x="12.2222" y="11.579" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 100" x="10" y="11.579" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 101" x="7.77783" y="11.579" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 102" x="5.55566" y="11.579" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 103" x="3.33325" y="13.6842" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 104" x="14.4443" y="13.6842" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 105" x="12.2222" y="13.6842" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 106" x="10" y="13.6842" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 107" x="7.77783" y="13.6842" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 108" x="5.55566" y="13.6842" width="1.11111" height="1.05263" fill="#808080"/>
+<rect id="Rectangle 83" x="0.5" y="1.55261" width="19" height="17.9474" rx="1.5" stroke="#808080"/>
+<path id="Rectangle 84" d="M0.5 6.8158H19.5V18C19.5 18.8284 18.8284 19.5 18 19.5H2C1.17157 19.5 0.5 18.8284 0.5 18V6.8158Z" stroke="#808080"/>
+<line id="Line 1" x1="6.05566" y1="-1.96701e-08" x2="6.05566" y2="4.21053" stroke="#808080"/>
+<line id="Line 2" x1="14.9443" y1="-1.96701e-08" x2="14.9443" y2="4.21053" stroke="#808080"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_412_68">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

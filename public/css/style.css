@@ -1,0 +1,311 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+body{
+    margin-bottom: 50px;
+    background-color: #FAFBFB;
+}
+
+/* Font */
+.f-title{
+    font-size: 70px;
+    font-weight: 700;
+}
+
+h1{
+    font-size: 26px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 16px;
+}
+
+/* End Font */
+
+section{
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+}
+
+.icon-search{
+    color: white !important;
+    padding: 24px;
+    border-radius: 20px;
+    background-color: #FC8868;
+}
+
+.icon-search:hover{
+    background-color: #fd7651;
+}
+
+.container{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+.btn-primary{
+    background-color: #FF7048;
+    border: #FF7048;
+    color: white;
+    padding: 32px 10px 32px 10px ;
+
+}
+
+.btn-primary:focus{
+    border: #ff9f84;
+}
+
+.btn-primary:active{
+    border: #ff9f84;
+}
+
+.btn-primary:hover{
+    background-color: #fa5426;
+    border: #fa5426;
+    color: white;
+}
+
+.btn{
+    border-radius: 12px;
+}
+
+/* Card */
+.card{
+    padding: 30px 20px 16px 20px;
+    border-radius: 20px;
+}
+
+.card img{
+    width: 100%;
+}
+
+.product{
+    text-decoration: none;
+}
+
+.product:hover{
+    border: solid 2px #3A8375;
+}
+
+.card-title{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.card-body{
+    margin-top: 15px;
+    padding: 0px;
+}
+
+.card .price{
+    font-size: 24px;
+    font-weight: 500;
+    color: #3A8375;
+}
+
+.card img.icon{
+    width: 20px;
+    height: 20px;
+}
+.card .hour{
+    text-align: right;
+    font-size: 12px;
+    color: #ADADAD;
+}
+
+.card-text{
+    margin-top: 10px;
+    font-size: 14px;
+    color: #ADADAD;
+}
+
+.sec-1 .rate{
+    font-size: 12px;
+    font-weight: 600;
+    background-color: #DAFFF8;
+    color:#3A8375;
+    padding: 1px 10px;
+    border-radius: 10px;
+    right: 40px;
+    top: 50px;
+
+    position: absolute;
+}
+/* End Card */
+
+/* Navbar */
+.navbar-brand{
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.navbar{
+    margin-bottom: 15px;
+}
+
+.navbar button{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.navbar .btn-primary{
+    padding:  10px 32px 10px 32px;
+}
+/* END Navbar */
+
+/* Hero */
+.carousel-item img{
+    border-radius: 30px;
+}
+.carousel .carousel-caption{
+    color: black;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+
+.carousel .carousel-caption p{
+    font-size: 18px;
+    font-weight: 600;
+    color: #24201D;
+}
+
+.hero .carousel .d-flex button{
+    border: none;
+    background-color: transparent;
+}
+
+.hero .carousel .d-flex{
+    position: absolute;
+    bottom: 100px;
+    left: 90px;
+}
+
+.hero .search{
+    position: relative;
+    z-index: 1;
+    padding: 30px 50px 25px;
+    margin-top: -65px !important;
+    background-color: white;
+    border-radius: 20px;
+    /* height: 130px; */
+}
+
+.search-title{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.search-body{
+    color: #808080;
+    font-size: 14px;
+}
+
+.search-body input{
+    width: 100 !important;
+    border: none;
+    font-size: 14px;
+}
+
+.search-body #btnGroupAddon{
+    background-color: transparent;
+    border: none;
+}
+
+.search ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+.search li{
+    float: left;
+    list-style-type: none;
+    margin-right: 40px;
+}
+/* End Hero */
+
+/* section 1 */
+.sec-1 .title{
+    margin-bottom: 50px;
+}
+/* End secion 1 */
+
+/* Gallery */
+
+.sec-2 .gallery{
+    position: relative;
+    z-index: 1;
+}
+
+.sec-2 .cover{
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    opacity: 0.7;
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(transparent, black);
+}
+
+.sec-2 .rate{
+    font-size: 12px;
+    font-weight: 600;
+    background-color: #DAFFF8;
+    color:#3A8375;
+    padding: 5px;
+    border-radius: 10px 0px 0px 10px;
+    right: 0px;
+    top: 50px;
+    z-index: 5;
+    position: absolute;
+}
+
+.sec-2 .location{
+    left: 30px;
+    top: 50px;
+    z-index: 5;
+    position: absolute;
+}
+
+.sec-2 .location .card-title{
+    color: white;
+}
+
+.sec-2 .click{
+    width: 80px;
+    height: 80px;
+    bottom: 50px;
+    z-index: 5;
+    left: 50%;
+    margin-left: -40px;
+    position: absolute;
+}
+
+.sec-2 #overlay{
+    opacity: 0;
+    -webkit-transition: all 0.5s;
+    transition:all 0.5s;
+
+}
+
+.sec-2 .gallery2:hover img{
+    opacity: 0.7;
+}
+
+.sec-2 .gallery2 img{
+    opacity: 1;
+    -webkit-transition: all 0.5s;
+    transition:all 0.5s;
+}
+
+.sec-2 .gallery:hover #overlay{
+    opacity: 1;
+}
+/* END Gallery */
